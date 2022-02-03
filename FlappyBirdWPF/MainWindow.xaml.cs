@@ -25,6 +25,7 @@ namespace FlappyBirdWPF
             InitializeComponent();
         }
 
+
         private void MainCanvas_KeyDown(object sender, KeyEventArgs e)
         {
 
